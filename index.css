@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;1,300;1,400&display=swap');
+
+body{
+    margin:0px;
+}
+
+#topbar{
+    padding-top:6px;
+    padding: 6px;
+}
+.stunning-logo{
+    width:100px;
+    height: 40px;
+    margin-right: 350px;
+    display: inline-block;
+    margin-left: 200px;
+
+}
+.menu-item:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    color:black;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+      
+}
+.menu-item{
+    cursor: pointer;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topbar-btn{
+    background-color: #FFD8DB;
+    color: blue;
+    border:none;
+    padding:10px 20px;
+    border-radius: 8px;
+    margin-left: 80px;
+    display:inline-block;
+}
+#page{
+    display: inline-flex;
+    margin-top: 50px;
+
+}
+#first-section{   
+    width:650px;
+    height: 800px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+     
+}
+
+#heading{
+    font-size: 55px;
+    margin-left: 250px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+.dot{
+    color: blue;
+    width: 10px;
+    height: 10px;
+}
+#para{
+    margin-left: 250px;
+   font-size: 12px;
+   font-family: 'Roboto', sans-serif;
+   margin-bottom: 0px;
+   color: lightslategray;
+    word-spacing: 2px;
+}
+
+#new-account-button{
+    
+    display: inline-flex;
+    margin-top: 20px;
+}
+#second-btn{
+    background-color: #5243C0;
+    color: #ffffff;
+    margin-left: 250px;
+    font-size: 10px;
+    padding-left:30px;
+    padding-right: 0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:18px;
+    border:none;
+}
+.arrow{
+    width:40px;
+    height: 40px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+
+#table{
+    margin-left: 250px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+#table-item:hover{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px lightslategray;
+      
+}
+
+.table-logo:hover{
+    text-decoration:underline;
+    text-decoration-color: blue;
+
+}
+.table-logo{
+    width:20px;
+    height:20px;
+    padding:10px;
+    }
+.table-user{
+    width:20px;
+    height:20px;
+    padding:10px;
+}
+
+#section-three{
+    
+    margin-top:50px ;
+}
+
+.stunning-image{
+    width: 500px;
+    height:500px;
+    
+}
+
+#Dmm-card{
+    background-color:#FED7DA;
+    border: 10px;
+    width:20px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#blurr-card{
+    background-color:#FD6534;
+    border: 10px;
+    width:20px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#illustration-card{
+    background-color:#9ED095;
+    border: 10px;
+    width:20px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+#refund-card{
+    background-color:#FFE4A0;
+    border: 10px;
+    width:20px;
+    height: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Roboto', sans-serif;
+
+}
